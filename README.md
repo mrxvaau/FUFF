@@ -19,3 +19,17 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/mrxvaau/FUFF.git
+```
+## Usage
+To run the tool, execute the following command:
+
+```bash
+java URLCheckerApp
+```
+## Contributing
+
+Contributions to this project are not currently open. This project is maintained solely by mrxvaau.
+
+
+
+
